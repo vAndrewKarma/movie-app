@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ##Getting Started
-Modify YOUR_API_KEY in the next files: app\page.jsx and app\[movie]\page.jsx with your api key from moviedb. You can grab it from ['here'] (https://www.themoviedb.org/settings/api).
+Modify YOUR_API_KEY in the next files: app\page.jsx and app\[movie]\page.jsx with your api key from moviedb. You can grab it from ['here'](https://www.themoviedb.org/settings/api).
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
